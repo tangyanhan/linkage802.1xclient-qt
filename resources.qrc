@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/opinion-no.png</file>
+        <file>images/opinion-okay.png</file>
+        <file>images/redo.png</file>
+        <file>images/trayicon-A.png</file>
+        <file>images/trayicon-B.png</file>
+        <file>images/settings.png</file>
+        <file>images/link.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/close.png</file>
+        <file>images/aboutAuthor.png</file>
+        <file>images/aboutProgram.png</file>
+        <file>images/icon24.png</file>
+        <file>images/timeHint.png</file>
+    </qresource>
+</RCC>
