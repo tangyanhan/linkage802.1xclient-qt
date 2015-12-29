@@ -12,7 +12,9 @@ Back to earlier 2011 in CUMT, linux adventures were still suffering from the uns
 This project was remarkable, for it was the first application I distributed for download. To provide completely network-free library dependency, the whole qt library were rebuilt over night. 
 
 In memory of the days when programming was for fun instead of money
+
 In memory of the days walking by the Mirror Lake in hot summer night
+
 In memory of youth that never lost, for youth is always measured by mind instead of body
 
 Now I'm back again - I'm loyal to myself and my users.
